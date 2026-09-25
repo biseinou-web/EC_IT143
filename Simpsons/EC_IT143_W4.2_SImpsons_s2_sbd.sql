@@ -1,0 +1,1 @@
+A: To answer total spending per card member, we aggregate transaction amounts by Card_Member. 

@@ -1,0 +1,1 @@
+SELECT ‘Hello World’ AS my_message; 

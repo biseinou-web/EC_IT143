@@ -1,0 +1,1 @@
+-- A: To see the current status of Hello World, we can query a simple string expression. 

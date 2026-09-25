@@ -1,0 +1,1 @@
+A: To answer how many players are on each team, we count players grouped by team ID.
