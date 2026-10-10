@@ -1,0 +1,3 @@
+-- Q: How to extract the first name from the contact name?
+-- A: We can use T-SQL string manipulation functions like SUBSTRING and CHARINDEX to get the first name.
+-- Next step: Test an ad hoc SQL query on the customer table.

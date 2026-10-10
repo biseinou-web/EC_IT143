@@ -1,0 +1,3 @@
+-- Step 1: Start with a question
+-- Script name: EC_IT143_6.3_fwt_s1_sbs.sql
+-- Q: How to keep track of when a record was last modified and who modified it?

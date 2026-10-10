@@ -1,0 +1,3 @@
+-- Step 3: Research and test a solution
+-- Script name: EC_IT143_6.3_fwf_s3_sbs.sql
+-- Reference: SQL Server documentation on SUBSTRING and CHARINDEX functions.

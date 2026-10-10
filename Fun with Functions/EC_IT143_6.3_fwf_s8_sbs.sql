@@ -1,0 +1,3 @@
+-- Step 8: Ask the next question
+-- Script name: EC_IT143_6.3_fwf_s8_sbs.sql
+-- Q: How do you extract the last name from the contact name?

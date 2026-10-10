@@ -1,0 +1,3 @@
+-- Step 6: Ask the next question
+-- Script name: EC_IT143_6.3_fwt_s6_sbs.sql
+-- Q: How do you keep track of deleted records or log deleted data into an audit history table?

@@ -1,0 +1,3 @@
+-- Step 2: Begin creating an answer
+-- Script name: EC_IT143_6.3_fwt_s2_sbs.sql
+-- A: We can use an AFTER UPDATE trigger combined with GETDATE() and SUSER_NAME() to automatically populate LastModifiedDate and LastModifiedBy.
